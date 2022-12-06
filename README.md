@@ -1,7 +1,7 @@
 ### Hello, I'm Lopes Boa! 👋
 
 
-- 🔭 I’m currently working on [@Sanar](https://www.sanarsaude.com/)
+- 🔭 I’m currently working on [@Sanar](https://www.sanar.com.br/)
 - 🌱 I’m currently learning Module Federation & Software architecture
 - 👯 I’m looking to collaborate on Vale Labs app
 - 🤔 I’m looking for help with documentation & github actions
