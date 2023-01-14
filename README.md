@@ -10,4 +10,6 @@
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=lopesboa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+[![github stats](https://github-readme-stats.vercel.app/api?username=lopesboa&show_icons=true&theme=dracula)](https://github.com/lopesboa/lopesboa)<br /><br />
+[![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lopesboa&layout=compact&count_private=true&theme=dracula)](https://github.com/lopesboa/lopesboa)
+
