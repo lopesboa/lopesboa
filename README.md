@@ -9,7 +9,7 @@
 - 📫 How to reach me: [Twitter @_lopesboa](https://twitter.com/_lopesboa), [LinkedIn: @lopesboa](https://linkedin.com/in/lopesboa)
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
-
+<!--
 # Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lopesboa&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
@@ -18,3 +18,4 @@
 
 [![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lopesboa&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lopesboa/lopesboa)
 
+-->
