@@ -11,7 +11,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 # Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lopesboa&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lopesboa&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 # Stats
 ![Gurpreet's github stats](https://github-readme-stats.vercel.app/api?username=lopesboa&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
