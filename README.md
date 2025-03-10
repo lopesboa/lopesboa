@@ -54,6 +54,3 @@ I’m also developing **two open-source libraries**:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopesboa&layout=compact&theme=tokyonight)](https://github.com/lopesboa)  
 
 ---
-
-### 💡 **Fun Fact**  
-*Stay tuned for an interesting fact about me!*  
