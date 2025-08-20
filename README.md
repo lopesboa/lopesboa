@@ -24,7 +24,7 @@ I’m also developing **two open-source libraries**:
 ---
 
 ### 🌱 **What I'm Up To**  
-- 🔭 **Working at**: [@Sanar](https://www.sanar.com.br/)  
+- 🔭 **Working at**: [@Navalia](https://navalia.io)  
 - 🌱 **Learning**: Module Federation & Software Architecture  
 - 👯 **Collaborating on**: Identity Sphere  
 - 🤔 **Looking for help with**: Keycloak integration 
